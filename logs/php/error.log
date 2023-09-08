@@ -1,0 +1,2 @@
+[08-Sep-2023 15:44:56 UTC] PHP Warning:  Undefined variable $previous_post_url in C:\Users\HP\Local Sites\ecommerce\app\public\wp-content\themes\bizz-ecommerce\template-parts\content-single.php on line 88
+[08-Sep-2023 15:44:56 UTC] PHP Warning:  Undefined variable $next_post_url in C:\Users\HP\Local Sites\ecommerce\app\public\wp-content\themes\bizz-ecommerce\template-parts\content-single.php on line 91
